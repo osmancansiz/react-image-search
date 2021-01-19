@@ -1,3 +1,9 @@
+# Search and Display
+
+Search images on pixabay api and display list. Axios was used for API Request. 
+State Props and Parent-Child component data binding.
+Style library is Semantic UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
